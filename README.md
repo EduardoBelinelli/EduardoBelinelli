@@ -5,8 +5,8 @@ Seja bem-vindo(a)!
    
  <div>
    <a href="https://github.com/EduardoBelinelli">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoBelinelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBelinelli&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoBelinelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBelinelli&layout=compact&langs_count=6&theme=dark"/>
 
 </div>
 <div style="display: inline_block"><br>
