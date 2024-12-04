@@ -1,6 +1,3 @@
-Esse perfil é do Programador (FRONT-END) Eduardo Belinelli. 
-Seja bem-vindo(a)!
-
  <div>
    
  <div>
